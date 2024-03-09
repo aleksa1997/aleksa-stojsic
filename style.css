@@ -473,4 +473,7 @@ a {
   .hero-second-subheading {
     font-size: 18px;
   }
+  .video-preview {
+    width: 100%;
+  }
 }
